@@ -1,2 +1,2 @@
-# University-assignments
+# university-assignments
 :gem: It's a personal assignment at the university.
